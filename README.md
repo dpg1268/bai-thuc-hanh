@@ -47,7 +47,7 @@
 
     .layout{
       display:grid;
-      grid-template-columns: 1fr 320px;
+      grid-template-columns: 1fr auto;
       gap:24px;
       margin-top:18px;
     }
@@ -164,6 +164,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
