@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -6,10 +5,9 @@
         <style>
         .container {
              max-width:1100px;
-             margin: auto;
+             margin:28px auto;
              padding:16px;
              border: 15px;
-        }
         }
             .img {
                 width:100%;
@@ -42,13 +40,11 @@
       letter-spacing:0.5px;
     }
     .layout{
-    height: auto;
-    align-self: start;
-    display:grid;
-    grid-template-columns: 1fr;
-    gap:24px;
-    margin-top:18px;
-}
+      display:grid;
+      grid-template-columns: 1fr 320px;
+      gap:24px;
+      margin-top:18px;
+    }
     .main{
       background:#fff;
       padding:12px;
@@ -85,7 +81,11 @@
       padding:10px;
       border-radius:6px;
       box-shadow:0 1px 3px rgba(0,0,0,0.06);
-      border: 3px solid black;
+         border: 4px solid transparent;
+      background: 
+        linear-gradient(white, white) padding-box,
+        linear-gradient(90deg, #ff7a18, #af002d, #319197) border-box;
+      font-weight: bold;
     }
     .sidebar .item{
       display:flex;
@@ -147,16 +147,16 @@
         <p class="excerpt">
           Sáng ngày 24/11/2025, trong buổi sinh hoạt dưới cờ tuần 13, toàn thể cán bộ, giáo viên và học sinh trường THPT Ea Súp đã tham gia các hoạt động văn nghệ, tuyên dương và chia sẻ những thành tích nổi bật trong học tập và phong trào.
         </p>
-</article>
+      </article>
     <aside class="sidebar" aria-label="tin liên quan">
         <div class="item"><span class="checkbox" aria-hidden="true"></span><a href="https://c3easup.daklak.edu.vn/sinh-hoat-duoi-co-tuan-13-truong-thpt-ea-sup.html">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/doan-vien-thanh-nien-truong-thpt-ea-sup-tham-gia-ngay-chu-nhat-xanh-lan-thu-viii.html">ĐOÀN VIÊN THANH NIÊN TRƯỜNG THPT EA SÚP THAM GIA NGÀY CHỦ NHẬT XANH</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/tang-cuong-kiem-tra-co-so-vat-chat-trong-thoi-diem-mua-lon.html">TĂNG CƯỜNG KIỂM TRA CƠ SỞ VẬT CHẤT TRONG THỜI ĐIỂM MƯA LỚN</a></div>
+                <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/ke-hoach-ung-pho-voi-mua-lon-lu-ngap-lut-truong-thpt-ea-sup-nam-hoc-2025-2026.html">KẾ HOẠCH ỨNG PHÓ VỚI MƯA LỚN, LŨ NGẬP, LỤT NĂM HỌC 2025-2026</a></div>
       </aside>
     </div>
     </div>
-
-
+<footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
 
 
 
