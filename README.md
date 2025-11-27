@@ -45,7 +45,7 @@
     height: auto;
     align-self: start;
     display:grid;
-    grid-template-columns: 1fr fit-content(320px);
+    grid-template-columns: 1fr;
     gap:24px;
     margin-top:18px;
 }
@@ -155,6 +155,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
