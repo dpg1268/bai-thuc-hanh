@@ -85,6 +85,7 @@
     .excerpt{color:#444;line-height:1.6;font-size:15px; font-weight: bold;}
     .sidebar{
       background:#fff;
+        height:180px;
       width:320px;
       padding:10px;
       border-radius:6px;
@@ -166,6 +167,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
