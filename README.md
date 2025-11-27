@@ -97,10 +97,10 @@
       font-weight: bold;
     }
     .sidebar .item{
-      display:block;
-      gap:10px;
-      padding:10px 8px;
-      border-bottom:1px solid #eee;
+     display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
     }
     .sidebar .item:last-child{border-bottom:0}
     .checkbox{
@@ -165,6 +165,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
