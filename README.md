@@ -83,24 +83,26 @@
     .meta .author{display:flex;align-items:center;gap:6px}
     .meta .author i{width:14px;height:14px;background: #f6a623;border-radius:50%;display:inline-block}
     .excerpt{color:#444;line-height:1.6;font-size:15px; font-weight: bold;}
-    .sidebar{
+        .sidebar{
       background:#fff;
-        height:auto;
-      width:320px;
       padding:10px;
       border-radius:6px;
       box-shadow:0 1px 3px rgba(0,0,0,0.06);
-         border: 4px solid transparent;
+        border: 4px solid transparent;
       background: 
         linear-gradient(white, white) padding-box,
         linear-gradient(90deg, #ff7a18, #af002d, #319197) border-box;
-      font-weight: bold;
     }
     .sidebar .item{
-     display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 12px 14px;
+      display:flex;
+      gap:10px;
+      padding:10px 8px;
+      border-bottom:1px solid #eee;
+      align-items:flex-start;
+    }
+    .sidebar .item:last-child{border-bottom:0}
+    .checkbox{
+      width:18px;height:18px;border:2px solid #3fa9f5;border-radius:3px;flex-shrink:0;background:#fff;display:inline-block;position:relative;
     }
     .sidebar .item:last-child{border-bottom:0}
     .checkbox{
