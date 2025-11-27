@@ -157,7 +157,6 @@
           Sáng ngày 24/11/2025, trong buổi sinh hoạt dưới cờ tuần 13, toàn thể cán bộ, giáo viên và học sinh trường THPT Ea Súp đã tham gia các hoạt động văn nghệ, tuyên dương và chia sẻ những thành tích nổi bật trong học tập và phong trào.
         </p>
 </article>
-<div class="container">
     <aside class="sidebar" aria-label="tin liên quan">
         <div class="item"><span class="checkbox" aria-hidden="true"></span><a href="https://c3easup.daklak.edu.vn/sinh-hoat-duoi-co-tuan-13-truong-thpt-ea-sup.html">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/doan-vien-thanh-nien-truong-thpt-ea-sup-tham-gia-ngay-chu-nhat-xanh-lan-thu-viii.html">ĐOÀN VIÊN THANH NIÊN TRƯỜNG THPT EA SÚP THAM GIA NGÀY CHỦ NHẬT XANH</a></div>
@@ -165,6 +164,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
