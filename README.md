@@ -144,7 +144,7 @@
             <div class="layout" role="main">
       <article class="main">
         <div class="hero">
-          <img src="d:\1.jpg" alt="hình sự kiện trường">
+          <img src="https://c3easup.daklak.edu.vn/wp-content/uploads/z7256103726607_79fe63e266c38bc191b57485784eaa3b.jpg" alt="hình sự kiện trường">
       </div>
         <h2 class="title">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</h2>
         <div class="meta">
@@ -166,4 +166,5 @@
     </div>
 </body>
 </html>
+
 
