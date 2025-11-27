@@ -92,6 +92,7 @@
       padding:10px;
       border-radius:6px;
       box-shadow:0 1px 3px rgba(0,0,0,0.06);
+      border: 3px solid black;
     }
     .sidebar .item{
       display:flex;
@@ -164,6 +165,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
