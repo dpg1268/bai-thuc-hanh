@@ -144,7 +144,6 @@
             <div class="layout" role="main">
       <article class="main">
         <div class="hero">
-    
           <img src="d:\1.jpg" alt="hình sự kiện trường">
       </div>
         <h2 class="title">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</h2>
@@ -162,9 +161,9 @@
         <div class="item"><span class="checkbox" aria-hidden="true"></span><a href="https://c3easup.daklak.edu.vn/sinh-hoat-duoi-co-tuan-13-truong-thpt-ea-sup.html">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/doan-vien-thanh-nien-truong-thpt-ea-sup-tham-gia-ngay-chu-nhat-xanh-lan-thu-viii.html">ĐOÀN VIÊN THANH NIÊN TRƯỜNG THPT EA SÚP THAM GIA NGÀY CHỦ NHẬT XANH</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/tang-cuong-kiem-tra-co-so-vat-chat-trong-thoi-diem-mua-lon.html">TĂNG CƯỜNG KIỂM TRA CƠ SỞ VẬT CHẤT TRONG THỜI ĐIỂM MƯA LỚN</a></div>
-
       </aside>
     </div>
     </div>
 </body>
 </html>
+
