@@ -23,9 +23,7 @@
                 border: 3px solid black;
                 padding: 8px;
                 border-radius: 8px;
-
         }
-    
     .topbar{
       background:#0d74b8;
       color:#fff;
@@ -39,19 +37,18 @@
       width:26px;height:18px;display:inline-block;
     }
     .hamburger span{display:block;height:3px;background:#fff;margin:3px 0;border-radius:2px}
-
     .topbar h1{
       font-size:18px;
       letter-spacing:0.5px;
     }
-
     .layout{
     display:grid;
+    width: auto;
+    height: auto;
     grid-template-columns: 1fr auto;
     gap:24px;
     margin-top:18px;
 }
-
     .main{
       background:#fff;
       padding:12px;
@@ -66,14 +63,12 @@
       background:#eee;
     }
     .hero img{width:100%;height:100%;object-fit:cover;display:block}
-
     .title{
       color:green;
       font-weight:700;
       font-size:20px;
       margin:14px 0 8px;
     }
-
     .meta{
       display:flex;
       gap:12px;
@@ -84,9 +79,7 @@
     }
     .meta .author{display:flex;align-items:center;gap:6px}
     .meta .author i{width:14px;height:14px;background: #f6a623;border-radius:50%;display:inline-block}
-
     .excerpt{color:#444;line-height:1.6;font-size:15px; font-weight: bold;}
-
     .sidebar{
       background:#fff;
       padding:10px;
@@ -115,7 +108,6 @@
     }
     .item a{color:#0b72b1;font-size:14px;font-weight:600;border: 15px;}
     .item a:hover{text-decoration:underline}
-
     @media (max-width:880px){
       .layout{grid-template-columns:1fr;gap:12px}
       .hero{height:180px}
@@ -129,7 +121,6 @@
       color:#111;
       line-height:1.4;
     }
-
     </style>
 </head>
 <body>
@@ -164,6 +155,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
