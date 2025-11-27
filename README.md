@@ -4,7 +4,7 @@
     <title>thực hành </title>
         <style>
         .container {
-             max-width:500px;
+             max-width:350px;
              margin:28px auto;
              padding:16px;
              border: 15px;
@@ -158,6 +158,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
