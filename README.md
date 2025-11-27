@@ -46,11 +46,11 @@
     }
 
     .layout{
-      display:grid;
-      grid-template-columns: 1fr auto;
-      gap:24px;
-      margin-top:18px;
-    }
+    display:grid;
+    grid-template-columns: 1fr auto;
+    gap:24px;
+    margin-top:18px;
+}
 
     .main{
       background:#fff;
@@ -164,6 +164,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
