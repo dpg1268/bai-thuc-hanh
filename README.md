@@ -4,7 +4,7 @@
     <title>thực hành </title>
         <style>
         .container {
-             max-width:350px;
+             max-width:450px;
              margin:28px auto;
              padding:16px;
              border: 15px;
@@ -41,7 +41,7 @@
     }
     .layout{
       display:grid;
-      grid-template-columns: 1fr 320px;
+      grid-template-columns: 1fr 280px;
       gap:24px;
       margin-top:18px;
     }
@@ -158,6 +158,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
