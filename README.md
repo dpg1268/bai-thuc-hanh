@@ -47,7 +47,7 @@
     }
             .layout1{
       display:grid;
-      grid-template-columns: 1fr 300px;
+      grid-template-columns: 1fr 320px;
       gap:24px;
       margin-top:18px;
     }
@@ -164,6 +164,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
