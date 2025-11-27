@@ -43,9 +43,7 @@
     }
     .layout{
     display:grid;
-    width: auto;
-    height: auto;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr fit-content(320px);
     gap:24px;
     margin-top:18px;
 }
@@ -155,6 +153,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
