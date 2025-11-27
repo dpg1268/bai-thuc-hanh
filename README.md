@@ -42,6 +42,8 @@
       letter-spacing:0.5px;
     }
     .layout{
+    height: auto;
+    align-self: start;
     display:grid;
     grid-template-columns: 1fr fit-content(320px);
     gap:24px;
@@ -153,6 +155,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
