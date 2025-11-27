@@ -6,7 +6,7 @@
         <style>
         .container {
              max-width:1100px;
-             margin:28px auto;
+             margin: auto;
              padding:16px;
              border: 15px;
         }
@@ -164,6 +164,7 @@
       </aside>
     </div>
     </div>
+
 
 
 
