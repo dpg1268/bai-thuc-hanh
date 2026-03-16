@@ -103,6 +103,6 @@ giúp tạo nên đất nước ngày càng tốt đẹp hơn.
 </div>
 </div>
 <div class="footer">
-<img src="https://github.com/dpg1268/bai-thuc-hanh/blob/7495ca92a30282e4042c134f64b969b89d5f9f69/dsds.png" alt="hoa hướng dương">
+![image alt](https://github.com/dpg1268/bai-thuc-hanh/blob/7495ca92a30282e4042c134f64b969b89d5f9f69/dsds.png)
 </div>
 </div>
