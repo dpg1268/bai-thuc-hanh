@@ -103,6 +103,6 @@ giúp tạo nên đất nước ngày càng tốt đẹp hơn.
 </div>
 </div>
 <div class="footer">
-[![image alt](https://github.com/dpg1268/bai-thuc-hanh/blob/7495ca92a30282e4042c134f64b969b89d5f9f69/dsds.png)](https://github.com/dpg1268/bai-thuc-hanh/blob/2e29d2595092668bd6863c5ff4ef30d93767a236/dsds.png)
+https://github.com/dpg1268/bai-thuc-hanh/blob/main/dsds.png?raw=true
 </div>
 </div>
