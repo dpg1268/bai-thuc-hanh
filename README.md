@@ -202,7 +202,7 @@ function moBox(){
 }
 </script>
 <div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
-    <img src="https://toplist.vn/images/800px/tu-hao-doan-thanh-nien-127778.jpg" alt="Banner Đoàn" style="width: 100%; height: auto; display: block;">
+    <img src="https://i.postimg.cc/DyyxVD83/z7631297192152-0b39019d485261de1b29e7f27c2b86ef.jpg">
 </div>
 <div class="marquee">
 <p>CHÀO MỪNG NGÀY THÀNH LẬP ĐOÀN THANH NIÊN CỘNG SẢN HỒ CHÍ MINH 26/03</p>
