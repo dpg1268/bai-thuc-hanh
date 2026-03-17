@@ -112,6 +112,7 @@ body{
     color:red;
     font-size:28px;
     font-weight:bold;
+    text-align:center;
 }
 
 .date{
@@ -119,6 +120,7 @@ body{
     font-size:20px;
     margin-top:5px;
     font-weight:bold;
+    text-align:center;
 }
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 .text{ 
