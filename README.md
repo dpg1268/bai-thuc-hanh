@@ -241,19 +241,15 @@ Ngày nay, thanh niên tiếp tục phát huy tinh thần năng động, sáng t
 <img src="https://daknong.1cdn.vn/2024/03/22/phuong3.tayninh.gov.vn-uploads-news-2022_11-_pano-co-dong-ngay-30-2.jpg">
 </div>
 <hr>
-<div class="video" style="text-align: center; margin: 30px 0;">
-    <h2 style="color: #d32f2f; font-family: Dancing Script; margin-bottom: 20px;">VIDEO TUYÊN TRUYỀN VỀ NGÀY THÀNH LẬP ĐOÀN </h2>
-    <div style="position: relative; display: inline-block; width: 700px; max-width: 95%;">
-        <a href="https://www.youtube.com/watch?v=XUaAevUdIxw" target="_blank" style="text-decoration: none;">
-            <img src="thumb_video.jpg" 
-                 alt="Video Đoàn Thanh Niên" 
-                 style="width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); display: block; border: 2px solid #ddd;">
-            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); filter: drop-shadow(0 2px 5px rgba(0,0,0,0.5));">
-                <svg height="80" width="80" viewBox="0 0 68 48">
-                    <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,0.13,34,0.13,34,0.13s-21.79,0-27.1,1.42C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19C12.21,47.87,34,47.87,34,47.87s21.79,0,27.1-1.42c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#f00"></path>
-                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
-                </svg>
-            </div>
+<div class="video">
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/Kui4Tt7lbE0"
+title="95 năm thành lập Đoàn thanh niên"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+</div>
             <p style="margin-top: 15px; color: #d32f2f; font-weight: bold; font-family: sans-serif;">
                 ▶ Xem video trên YouTube
             </p>
