@@ -212,7 +212,7 @@ function moBox(){
 <div class="header">
 <div class="left">
 <img src="https://cdn.thuvienphapluat.vn/phap-luat/2022-2/QB/180324/DOAN-TNCS.jpg" alt="Đoàn TNCS Hồ Chí Minh thành lập khi nào? Người đoàn viên Đoàn TNCS Hồ Chí Minh đầu tiên là ai?" data-adbro-processed="true">
-<img src="https://www.google.com/imgres?q=anhr%20ddoanf%20thanh%20nien&imgurl=https%3A%2F%2Fimages2.thanhnien.vn%2F528068263637045248%2F2025%2F4%2F27%2Fanh-1-1745757317683461590713.jpg&imgrefurl=https%3A%2F%2Fthanhnien.vn%2Fdoan-thanh-nien-dong-vai-tro-quan-trong-trong-50-nam-phat-trien-tphcm-185250427194303253.htm&docid=B3ptHOOfd7D_SM&tbnid=ER54G0IAGpIwlM&vet=12ahUKEwjxovmMtKiTAxUQbPUHHT_EAEcQnPAOegQIGxAB..i&w=2560&h=1707&hcb=2&ved=2ahUKEwjxovmMtKiTAxUQbPUHHT_EAEcQnPAOegQIGxAB" data-adbro-processed="true">
+<img src="https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/4/27/anh-1-1745757317683461590713.jpg" data-adbro-processed="true">
 </div>
 <div class="right">
 <div class="title">
