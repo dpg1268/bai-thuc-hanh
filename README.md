@@ -279,5 +279,3 @@ Thông qua các hoạt động kỷ niệm, phong trào thanh niên ngày càng 
 </p>
 </div>
 <button class="open-btn" id="openBtn" onclick="moBox()">Mở</button>
-</div>
-</div>
