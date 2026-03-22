@@ -187,17 +187,17 @@ body{
 <!-- BOX TRÁI -->
 <div class="sidebar tv">
 <div class="text">
-    <h3>THÀNH VIÊN NHÓM</h3>
+  <h3>THÀNH VIÊN NHÓM</h3>
     <h4>Người làm Web :</h4><br>
-    - Phạm Đức Phong<br>
+    <a href="https://www.facebook.com/mkg1268/" target="_blank">- Phạm Đức Phong</a><br>
     <h4>Người Hỗ Trợ Làm Web :</h4><br>
-    - Bùi Thị Duyên<br>
-    - Hoàng Ngọc Anh Khôi<br>
-    <h4>Người Làm Nội Dung :</h4><br>
-    - Mặc văn Cương<br>
-    - Phạm Thùy Liên<br>
-    - Hoàng Khánh Ngân<br>
-    - Nguyễn Thị Thảo Vi<br> 
+    <a href="https://www.facebook.com/profile.php?id=100081889342530" target="_blank">- Bùi Thị Mỹ Duyên</a><br>
+    <a href="https://www.facebook.com/egifskii" target="_blank">- Hoàng Ngọc Anh Khôi</a><br>
+        <h4>Người Làm Nội Dung :</h4><br>
+    <a href="https://www.facebook.com/van.cuong.777673" target="_blank">- Mặc văn Cương</a><br>
+    <a href="https://www.facebook.com/ngthtvy.7" target="_blank">- Nguyễn Thị Thảo Vi</a><br>
+    <a href="https://www.facebook.com/ngan.hoang1602" target="_blank">- Hoàng Khánh Ngân</a><br>
+    <a href="https://www.facebook.com/thuy.lien.413566" target="_blank">- Phạm Thùy Liên</a><br> 
 </div>
 </div>
 <!-- NỘI DUNG -->
