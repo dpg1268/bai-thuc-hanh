@@ -74,6 +74,7 @@ body{
     .hd{
     flex:0 0 320px;
 }
+    a{color:black;}
 .left{
       position: relative;
     width:40%;
