@@ -105,8 +105,8 @@ body{
     color:black;
 }
 .activity img{
-    width:200px;
-    height:100px;
+    width:330px;
+    height:160px;
     object-fit:cover;
     border-radius:8px;
     transition:0.3s;
@@ -254,7 +254,11 @@ Ngày 26/3 hằng năm là dịp để tuổi trẻ Việt Nam cùng nhau ôn l�
                 <a href="https://c3easup.daklak.edu.vn/truong-thpt-ea-sup-tung-bung-to-chuc-cac-hoat-dong-ky-niem-92-nam-ngay-thanh-lap-doan-tncshcm-26031931-26032023.html" target="_blank">
             <img src="http://c3easup.daklak.edu.vn/wp-content/uploads/z4214025635279_ce787a7973838abfae831765eaf95c90.jpg">
         </a>
-    </div>  
+    </div>
+     <div class="activity" style="display: block;">
+            <p>📚 Hoạt Động Chào Mừng Ngày 26/3</p>
+                   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02WamieWgfzjjeYUC8wEgQ7sggV9Q2n2W56RLxnpVPXZBCuNNXC6XWhn6xFakQEiEsl%26id%3D100068895586741&show_text=true&width=500" width="500" height="700" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    </div>
     <hr>
     <h3>KẾT QUẢ</h3>
     <p style="font-weight:bold;">- Ngày 26/03 hằng năm là dịp để thanh niên cả nước ôn lại truyền thống vẻ vang của Đoàn Thanh niên Cộng sản Hồ Chí Minh. Thông qua các hoạt động kỷ niệm, phong trào thanh niên ngày càng phát triển mạnh mẽ và thu hút nhiều đoàn viên tham gia.</p>
