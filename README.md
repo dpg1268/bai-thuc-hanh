@@ -5,7 +5,7 @@
 <style>
 body{
     margin:0;
-    background:#f6e27a;
+    background:#fff8c6;
     font-family: Arial;
 }
 /* layout mới */
@@ -22,7 +22,7 @@ body{
     width:450px;
     border:3px solid red;
     border-radius:10px;
-    background:#fff8c6;
+    background:white;
     padding:15px;
     box-shadow:0 0 10px rgba(0,0,0,0.3);
 }
@@ -51,7 +51,7 @@ body{
 /* chữ chạy */
 .marquee{
     overflow:hidden;
-    background:#f6e27a;
+    background:#fff8c6;
 }
 .marquee p{
     white-space:nowrap;
