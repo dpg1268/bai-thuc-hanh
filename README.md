@@ -40,7 +40,7 @@ body{
     padding:30px;
     border:4px solid red;
     border-radius:10px;
-    background:#fff8c6;
+    background:white;
     box-shadow:0 0 15px rgba(0,0,0,0.2);
     flex:2;
 }
